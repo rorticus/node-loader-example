@@ -1,4 +1,5 @@
-import * as dojoRequire from '@dojo/loader';
+import { RootRequire } from '@dojo/interfaces/loader';
+const dojoRequire: RootRequire = require('@dojo/loader');
 
 dojoRequire.config({
     packages: [
