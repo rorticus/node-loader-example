@@ -1,5 +1,4 @@
-import * as dojoRequire from '@dojo/loader/interfaces';
-
+import * as dojoRequire from '@dojo/loader';
 
 dojoRequire.config({
     packages: [
