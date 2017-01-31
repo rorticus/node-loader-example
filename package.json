@@ -1,0 +1,19 @@
+{
+  "name": "node-loader-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@dojo/loader": "^2.0.0-beta.9"
+  },
+  "devDependencies": {
+    "@dojo/interfaces": "^2.0.0-alpha.11",
+    "@types/node": "^7.0.4",
+    "typescript": "^2.1.5"
+  }
+}
